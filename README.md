@@ -2,7 +2,7 @@
 
 In this repository are all the files needed to complete the 4-week Python section of new member education for Cornell Data Journal.
 
-All resources, unless otherwise specified are created by Nikhil Chinchalkar.
+All resources, unless otherwise specified, are created by Nikhil Chinchalkar.
 
 ---
 

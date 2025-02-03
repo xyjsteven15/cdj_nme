@@ -1,7 +1,5 @@
 # CDJ NME
 
----
-
 "Education is a right not a privilege".
 
 ---

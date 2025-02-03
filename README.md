@@ -1,6 +1,10 @@
 # CDJ NME
 
-"Education is a right not a privilege"
+---
+
+"Education is a right not a privilege".
+
+---
 
 In this repository are all the files needed to complete the 4-week Python section of new member education for Cornell Data Journal.
 
